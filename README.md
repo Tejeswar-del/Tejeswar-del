@@ -5,4 +5,4 @@ I'm a passionate Salesforce administrator with over two years of professional IT
 
 - 🔭 I’m doing my Master's in computer Science graduating in Summer 2025.
 - 🌱 I’m currently learning Cybersecuirty Offensive techinques.
-- 📫 Contact me: tejeswar2299@gmail.com@gmail.com
+- 📫 Contact me: tejeswar2299@gmail.com
